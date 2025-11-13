@@ -5,7 +5,7 @@ Permite agregar funcionalidades dinámicas a los objetos (Decorator) y adaptar s
 
 ---
 
-## 📊 Diagrama UML (Mermaid)
+## Diagrama UML (Mermaid)
 
 ```mermaid
 classDiagram
