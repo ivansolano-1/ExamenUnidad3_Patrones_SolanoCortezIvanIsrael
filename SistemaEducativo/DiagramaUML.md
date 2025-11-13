@@ -1,4 +1,4 @@
-# 🧩 Sistema Educativo con Patrones Decorator y Adapter
+# Sistema Educativo con Patrones Decorator y Adapter
 
 Este proyecto en C# implementa los patrones **Decorator** y **Adapter** en un sistema educativo con módulos extra de evaluación.  
 Permite agregar funcionalidades dinámicas a los objetos (Decorator) y adaptar sistemas antiguos a la nueva estructura (Adapter).
